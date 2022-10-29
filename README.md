@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Islam Umarov
 - 👀 I’m interested in creating products thats matter for people. Love everything about .NET ecosystem
-- 🌱 I’m currently learning abstractly thinking and designing highl oad systems  
+- 🌱 I’m currently learning abstractly thinking and designing highl load systems  
 - 📫 How to reach me [Email :email:](mailto:ihtyyarovich@gmail.com) -  [twitter](twitter.com/i_umarov) -  [LinkedIn](https://www.linkedin.com/in/islamumarov/)
