@@ -7,6 +7,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=islamumarov&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 <a href="https://github.com/islamumarov">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=islamumarov&show_icons=true&theme=shades-of-purple&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamumarov&theme=shades-of-purple&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=islamumarov&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamumarov&theme=dark&layout=compact" />
 </a>
